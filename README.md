@@ -1,7 +1,7 @@
 # My-Chapp 
 
 <p align="center">
-  <a href="https://getstream.io/chat/react-chat/tutorial/"><img src="https://user-images.githubusercontent.com/84600029/193167714-767eb536-8d04-4c8b-83bf-e629dd51979f.png" alt="react native chat" width="50%" /></a>
+  <a href="https://github.com/jonathan20dev/my-chapp"><img src="https://i.imgur.com/SRkDlFX.png" alt="react native chat" width="60%" /></a>
 </p>
 
 > Application created as part of a course 
