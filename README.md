@@ -13,7 +13,9 @@
 
 
 With our application you have a variety of use cases for chat, including:
+
 ***Messages are encrypted!***
+
 - Send text messages
 - Send audios
 - Send images
