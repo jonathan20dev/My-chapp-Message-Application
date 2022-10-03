@@ -5,8 +5,15 @@
 </p>
 
 > Application created as part of a course 
-> by Kimberly Vargas and Jonathan Mendoza.
+> 
+>- Kimberly Vargas 
+>
+>- Jonathan Mendoza.
+>
 
+Live Demo
+>
+>[chapp.com](https://chapp-online.netlify.app)
 
 <img align="right" src="https://getstream.imgix.net/images/chat/chattutorialart@3x.png?auto=format,enhance" width="50%" />
 
